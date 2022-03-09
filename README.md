@@ -1,6 +1,6 @@
 # ES6-Learn
 
-node <filename>.js. (to run code)
+node filename.js (to run code)
 
 
 BASIC JS NOTATIONS
