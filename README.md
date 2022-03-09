@@ -25,7 +25,6 @@ Cem Eygi. freeCodeCamp.org. (2020). JavaScript Promise Tutorial: Resolve, Reject
 Available at: https://www.freecodecamp.org/news/javascript-es6-promises-for-beginners-resolve-reject-and-chaining-explained/ 
 [Accessed 9 Mar. 2022].
 
-‌
 Cem Eygi.freeCodeCamp.org. (2020). JavaScript Callback Functions – What are Callbacks in JS and How to Use Them. [online] 
 Available at: https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/ 
 [Accessed 9 Mar. 2022].
