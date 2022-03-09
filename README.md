@@ -1,5 +1,8 @@
 # ES6-Learn
 
+node <filename>.js. (to run code)
+
+
 BASIC JS NOTATIONS
 
 Janeth Kent. Development, M.-N.W.D. and (n.d.). Level Up Your JavaScript Skills: 12 basic notions. 
